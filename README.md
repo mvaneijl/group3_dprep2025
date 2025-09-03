@@ -12,11 +12,11 @@ Movie rating is a key determinant of a film’s ability to attract viewers (Aust
 
 This research question is both relevant and practical. Movie duration is a central aspect of the viewing experience: very short films might feel underdeveloped for the audience, while extremely long ones may lead to a higher amount of fatigue. Audience expectations, however, are dynamic: they change over time along with movie-making trends and rating practices. By controlling for release year, this study can separate these time-related factors from the effect of duration itself, offering clearer insights into how length relates to movie ratings.
 
-## Reseach Method
+## Research Method
 To answer the research question, a regression analysis will be conducted. This approach is well suited to estimating the relationship between duration and rating while treating release year as a covariate. It not only measures the strength and direction of this relationship, but also tests its statistical significance. If needed, additional exploratory analyses will be done, for example by grouping release years into broader periods or by checking for non-linear patterns, to make sure the results are reliable.
-	To perform the regression analysis, the following data sets with the required variables will be used:
-…
-…
+	To perform the regression analysis, the following data sets with the required variables will be used, acquired from IMDb on September 1st 2025:
+title.basics.tsv for movie duration and release year
+title.ratings.tsv for movie rating
 
 ## Way of Deployment
 The results will be communicated through an RMarkdown-generated PDF report. This format integrates text, statistical output, tables, and visualizations into a structured document. The PDF is platform-independent, ensuring that results are easily accessible and interpretable across devices. This approach enhances clarity for a broad audience, from academic readers to practitioners interested in data-driven insights into film evaluation. 
