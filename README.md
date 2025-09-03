@@ -3,6 +3,16 @@ title: "README"
 output: pdf_document
 date: "2025-09-03"
 ---
+# RESEARCH QUESTION
+## Introduction
+
+
+## Research Motivation
+
+## Reseach Method
+
+
+## Results
 
 
 ## Contributors
