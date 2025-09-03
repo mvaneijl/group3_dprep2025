@@ -3,8 +3,7 @@ title: "README"
 output: pdf_document
 date: "2025-09-03"
 ---
-# RESEARCH QUESTION
-What is the impact of movie duration on movie rating, controlling for the movie’s release year?
+# What is the impact of movie duration on movie rating, controlling for the movie’s release year?
 
 ## Introduction
 
