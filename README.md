@@ -24,6 +24,7 @@ Finally, the following steps in the workflow contribute to reproducibility and r
   2. Data preparation
   3. Regression analysis and results
   4. Evaluation and deployment
+
 To ensure replicability, the workflow will be automated using RMarkdown and controlled with a Makefile. This enables the entire analysis to be rerun end-to-end with limited manual work. Such a framework not only improves the reliability of this study, but also provides a reusable resource for students and researchers who wish to replicate the analysis with different datasets or apply it to similar research questions. This way, this study will both contribute to insights into the relationship between movie duration and movie ratings and to the broader research and educational community.
 
 ## Results
